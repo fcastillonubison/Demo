@@ -1,0 +1,101 @@
+<PubHist<[1]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\helloworld.a5w}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 06:19:11 28 pm')>
+>
+<[2]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 57 pm')>
+>
+<[3]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora_login.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 62 pm')>
+>
+<[4]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora_login_page.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 65 pm')>
+>
+<[5]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 66 pm')>
+>
+<[6]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 66 pm')>
+>
+<[7]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 06:19:11 32 pm')>
+>
+<[8]<type="css">
+<name="ios">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 81 pm')>
+>
+<[9]<type="css">
+<name="ios7">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 90 pm')>
+>
+<[10]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 99 pm')>
+>
+<[11]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 99 pm')>
+>
+<[12]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 99 pm')>
+>
+<[13]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:12 99 pm')>
+>
+<[14]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:13 00 pm')>
+>
+<[15]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:13 00 pm')>
+>
+<[16]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:13 00 pm')>
+>
+<[17]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 06:16:06 98 pm')>
+>
+<[18]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 05:06:13 00 pm')>
+>
+<[19]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 06:16:25 75 pm')>
+>
+<[20]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('06/06/2017 06:19:11 41 pm')>
+>
+>

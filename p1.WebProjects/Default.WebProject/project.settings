@@ -22,7 +22,7 @@
 <PublishLockPassword="">
 <misc<RestrictWebDataPublish=.F.>
 <AutoRestrictWebDataPublish=.F.>
-<WebDataPublished=.F.>
+<WebDataPublished=.T.>
 <DefaultValuePublishSupportFiles=.T.>
 <DefaultValuePublishSelectedOnly=.F.>
 <DefaultflagCheckBeforePublish=.T.>
