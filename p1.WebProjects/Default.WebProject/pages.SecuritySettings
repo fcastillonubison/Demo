@@ -58,4 +58,8 @@
 <action="login">
 <groups="de1a5f776f1845ee9120539165da2d8b,Administrators">
 >
+<[16]<page="nuevousuario.a5wcmp">
+<action="allow">
+<groups="">
+>
 >
