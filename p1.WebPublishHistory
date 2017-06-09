@@ -91,12 +91,12 @@
 <[19]<type="A5WPage">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\helloworld.a5w}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('07/06/2017 12:26:47 22 pm')>
+<timestamp=CTODT('08/06/2017 01:29:43 71 pm')>
 >
 <[20]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora.a5wcmp}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('08/06/2017 12:52:10 01 pm')>
+<timestamp=CTODT('09/06/2017 09:11:04 23 am')>
 >
 <[21]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora_login.a5wcmp}">
@@ -116,7 +116,7 @@
 <[24]<type="css">
 <name="a5system">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('08/06/2017 12:52:10 07 pm')>
+<timestamp=CTODT('09/06/2017 09:27:23 41 am')>
 >
 <[25]<type="css">
 <name="ios">
@@ -291,12 +291,12 @@
 <[59]<type="cssIcon">
 <name="font-awesome">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('08/06/2017 12:52:10 18 pm')>
+<timestamp=CTODT('09/06/2017 09:27:23 55 am')>
 >
 <[60]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\nuevousuario.a5wcmp}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('08/06/2017 11:46:36 99 am')>
+<timestamp=CTODT('08/06/2017 03:14:10 38 pm')>
 >
 <[61]<type="css">
 <name="grgray">
