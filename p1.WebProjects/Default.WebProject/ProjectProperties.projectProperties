@@ -23,7 +23,7 @@
 <jQueryUI="Load Internal Version">
 <links="">
 <includeImageGallery=.F.>
-<includeGoogleJSAPI=.F.>
+<includeGoogleJSAPI=.T.>
 <includeCKEdit=.F.>
 <jQueryCoreVersion="1.6.2">
 <jQueryUIVersion="1.8.16">

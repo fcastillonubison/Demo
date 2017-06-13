@@ -91,17 +91,17 @@
 <[19]<type="A5WPage">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\helloworld.a5w}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('08/06/2017 01:29:43 71 pm')>
+<timestamp=CTODT('09/06/2017 12:35:39 94 pm')>
 >
 <[20]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora.a5wcmp}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('09/06/2017 09:11:04 23 am')>
+<timestamp=CTODT('13/06/2017 06:19:51 30 pm')>
 >
 <[21]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora_login.a5wcmp}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('08/06/2017 11:38:30 36 am')>
+<timestamp=CTODT('12/06/2017 01:18:20 41 pm')>
 >
 <[22]<type="file">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
@@ -116,7 +116,7 @@
 <[24]<type="css">
 <name="a5system">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('09/06/2017 09:27:23 41 am')>
+<timestamp=CTODT('13/06/2017 06:19:51 36 pm')>
 >
 <[25]<type="css">
 <name="ios">
@@ -131,7 +131,7 @@
 <[27]<type="file">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\project.securitysettings}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('07/06/2017 09:44:01 41 am')>
+<timestamp=CTODT('12/06/2017 12:18:30 42 pm')>
 >
 <[28]<type="file">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
@@ -171,12 +171,12 @@
 <[35]<type="file">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\pages.securitysettings}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('08/06/2017 11:38:30 51 am')>
+<timestamp=CTODT('12/06/2017 01:01:12 26 pm')>
 >
 <[36]<type="file">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\projectproperties.projectproperties}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('07/06/2017 09:44:01 43 am')>
+<timestamp=CTODT('13/06/2017 04:16:43 11 pm')>
 >
 <[37]<type="file">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_expired.dbf}">
@@ -291,16 +291,66 @@
 <[59]<type="cssIcon">
 <name="font-awesome">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('09/06/2017 09:27:23 55 am')>
+<timestamp=CTODT('13/06/2017 06:19:51 47 pm')>
 >
 <[60]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\nuevousuario.a5wcmp}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('08/06/2017 03:14:10 38 pm')>
+<timestamp=CTODT('12/06/2017 01:17:55 69 pm')>
 >
 <[61]<type="css">
 <name="grgray">
 <target_folder="c:\a5webroot\constructora">
 <timestamp=CTODT('08/06/2017 09:46:33 98 am')>
+>
+<[62]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\test.a5wcmp}">
+<target_folder="c:\a5webroot\constructora">
+<timestamp=CTODT('09/06/2017 11:07:27 55 am')>
+>
+<[63]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('09/06/2017 04:36:00 53 pm')>
+>
+<[64]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora.a5wcmp}">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('09/06/2017 04:36:01 45 pm')>
+>
+<[65]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\nuevousuario.a5wcmp}">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('09/06/2017 04:36:01 59 pm')>
+>
+<[66]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('09/06/2017 04:36:01 66 pm')>
+>
+<[67]<type="css">
+<name="ios7">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('09/06/2017 04:36:01 86 pm')>
+>
+<[68]<type="cssIcon">
+<name="font-awesome">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('09/06/2017 04:36:01 97 pm')>
+>
+<[69]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('09/06/2017 04:36:02 00 pm')>
+>
+<[70]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot\livepreview">
+<timestamp=CTODT('09/06/2017 04:36:02 02 pm')>
+>
+<[71]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\logo.jpg}">
+<target_folder="c:\a5webroot\constructora">
+<timestamp=CTODT('12/06/2017 04:51:25 48 pm')>
 >
 >
