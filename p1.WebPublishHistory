@@ -96,12 +96,12 @@
 <[20]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora.a5wcmp}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('13/06/2017 06:19:51 30 pm')>
+<timestamp=CTODT('14/06/2017 05:35:44 31 pm')>
 >
 <[21]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora_login.a5wcmp}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('12/06/2017 01:18:20 41 pm')>
+<timestamp=CTODT('14/06/2017 09:43:26 52 am')>
 >
 <[22]<type="file">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
@@ -116,7 +116,7 @@
 <[24]<type="css">
 <name="a5system">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('13/06/2017 06:19:51 36 pm')>
+<timestamp=CTODT('14/06/2017 05:35:44 37 pm')>
 >
 <[25]<type="css">
 <name="ios">
@@ -291,7 +291,7 @@
 <[59]<type="cssIcon">
 <name="font-awesome">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('13/06/2017 06:19:51 47 pm')>
+<timestamp=CTODT('14/06/2017 05:35:44 49 pm')>
 >
 <[60]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\nuevousuario.a5wcmp}">
