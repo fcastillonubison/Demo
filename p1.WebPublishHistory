@@ -96,7 +96,7 @@
 <[20]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora.a5wcmp}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('15/06/2017 04:45:35 86 pm')>
+<timestamp=CTODT('04/07/2017 11:19:18 66 am')>
 >
 <[21]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora_login.a5wcmp}">
@@ -116,7 +116,7 @@
 <[24]<type="css">
 <name="a5system">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('15/06/2017 04:45:35 92 pm')>
+<timestamp=CTODT('06/07/2017 05:00:32 24 pm')>
 >
 <[25]<type="css">
 <name="ios">
@@ -176,7 +176,7 @@
 <[36]<type="file">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\projectproperties.projectproperties}">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('13/06/2017 04:16:43 11 pm')>
+<timestamp=CTODT('30/06/2017 11:39:35 26 am')>
 >
 <[37]<type="file">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_expired.dbf}">
@@ -291,7 +291,7 @@
 <[59]<type="cssIcon">
 <name="font-awesome">
 <target_folder="c:\a5webroot\constructora">
-<timestamp=CTODT('15/06/2017 04:45:36 03 pm')>
+<timestamp=CTODT('06/07/2017 05:00:32 55 pm')>
 >
 <[60]<type="WebComponent">
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\nuevousuario.a5wcmp}">
@@ -352,5 +352,210 @@
 <name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\logo.jpg}">
 <target_folder="c:\a5webroot\constructora">
 <timestamp=CTODT('12/06/2017 04:51:25 48 pm')>
+>
+<[72]<type="A5WPage">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:54:58 88 pm')>
+>
+<[73]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:54:59 78 pm')>
+>
+<[74]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\constructora_login.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:54:59 84 pm')>
+>
+<[75]<type="WebComponent">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\nuevousuario.a5wcmp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:54:59 89 pm')>
+>
+<[76]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:54:59 91 pm')>
+>
+<[77]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\css\font-awesome.min.css}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:54:59 93 pm')>
+>
+<[78]<type="css">
+<name="a5system">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:00 46 pm')>
+>
+<[79]<type="css">
+<name="ios">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 23 pm')>
+>
+<[80]<type="css">
+<name="ios7">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 43 pm')>
+>
+<[81]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 52 pm')>
+>
+<[82]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.eot}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 55 pm')>
+>
+<[83]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.svg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 58 pm')>
+>
+<[84]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.ttf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 59 pm')>
+>
+<[85]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff2}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 61 pm')>
+>
+<[86]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome-webfont.woff}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 62 pm')>
+>
+<[87]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\css\cssicons\font-awesome\fonts\fontawesome.otf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 64 pm')>
+>
+<[88]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\logo.jpg}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 65 pm')>
+>
+<[89]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\p1.aex}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 66 pm')>
+>
+<[90]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\pages.securitysettings}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 66 pm')>
+>
+<[91]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\projectproperties.projectproperties}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 66 pm')>
+>
+<[92]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_expired.dbf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 66 pm')>
+>
+<[93]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_expired.dbp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 68 pm')>
+>
+<[94]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_expired.ddd}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 70 pm')>
+>
+<[95]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_expired.ddm}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 71 pm')>
+>
+<[96]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_expired.ddx}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 73 pm')>
+>
+<[97]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_groups.cdx}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 73 pm')>
+>
+<[98]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_groups.dbf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 73 pm')>
+>
+<[99]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_groups.dbp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 73 pm')>
+>
+<[100]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_groups.ddd}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 73 pm')>
+>
+<[101]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_groups.ddm}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 74 pm')>
+>
+<[102]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_groups.ddx}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 74 pm')>
+>
+<[103]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_members.dbf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 74 pm')>
+>
+<[104]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_members.dbp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 78 pm')>
+>
+<[105]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_members.ddd}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 80 pm')>
+>
+<[106]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_members.ddm}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 80 pm')>
+>
+<[107]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_members.ddx}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 83 pm')>
+>
+<[108]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_users.dbf}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 83 pm')>
+>
+<[109]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_users.dbp}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 83 pm')>
+>
+<[110]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_users.ddd}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 85 pm')>
+>
+<[111]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_users.ddm}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 85 pm')>
+>
+<[112]<type="file">
+<name="{c:\users\desarrollador\documents\alpha p1\p1.webprojects\default.webproject\websecurity_users.ddx}">
+<target_folder="c:\users\desarrollador\appdata\local\temp\alphaanywhere\p_4308\temphttp___nubisonlab_cl___1580\p1app">
+<timestamp=CTODT('13/07/2017 05:55:01 87 pm')>
 >
 >

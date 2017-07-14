@@ -102,7 +102,7 @@
 <stripe<keysJSON="">
 >
 <siteDefaults<guessedDefaultPage=.T.>
-<defaultpage="index.html">
+<defaultpage="index.a5w">
 <maxUploadSizeMB=100>
 <sessionTimeout=15>
 >
